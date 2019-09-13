@@ -41,7 +41,7 @@ def numbersGame():
             print("You did it and it only took you ",total," Tries")
             break
         else:
-            print("You failed please Guess again",randNum)
+            print("You failed please Guess again")
             total = total + 1
 
 while __name__ == "__main__":
